@@ -1,0 +1,59 @@
+A futuristic AI-powered digital circus interface.
+
+caine-os/
+│
+├── public/
+│   ├── sounds/
+│   ├── videos/
+│   ├── textures/
+│   └── favicon.ico
+│
+├── src/
+│   │
+│   ├── assets/
+│   │   ├── images/
+│   │   ├── icons/
+│   │   ├── fonts/
+│   │   └── gifs/
+│   │
+│   ├── components/
+│   │   ├── ui/
+│   │   ├── layout/
+│   │   ├── dashboard/
+│   │   ├── terminal/
+│   │   ├── effects/
+│   │   └── animations/
+│   │
+│   ├── pages/
+│   │   ├── Home/
+│   │   ├── Dashboard/
+│   │   ├── Terminal/
+│   │   └── Error/
+│   │
+│   ├── styles/
+│   │   ├── globals.css
+│   │   ├── animations.css
+│   │   ├── glitch.css
+│   │   └── terminal.css
+│   │
+│   ├── data/
+│   │   ├── tasks.js
+│   │   ├── messages.js
+│   │   └── analytics.js
+│   │
+│   ├── hooks/
+│   │   ├── useGlitch.js
+│   │   └── useSound.js
+│   │
+│   ├── utils/
+│   │   ├── helpers.js
+│   │   └── constants.js
+│   │
+│   ├── App.jsx
+│   ├── main.jsx
+│   └── index.css
+│
+├── .gitignore
+├── package.json
+├── vite.config.js
+└── README.md
